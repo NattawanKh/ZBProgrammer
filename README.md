@@ -13,8 +13,9 @@ Flasher software for a Zigbee dongle offers an efficient way to reduce manpower 
 
 * #### Open Terminal for install intelhex by using command
   > pip install intelhex
-  
->![image](https://github.com/user-attachments/assets/852ca4a9-f0d9-4686-a823-ea02918424fc)
+  > 
+  >![image](https://github.com/user-attachments/assets/df488938-4b2b-4d2a-bc92-c8bb10c6a84e)
+
 
 * #### Enjoy!!
   
